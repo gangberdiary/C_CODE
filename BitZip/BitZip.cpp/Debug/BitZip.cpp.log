@@ -1,0 +1,7 @@
+﻿  BitZip.cpp
+  HTCompress.cpp
+e:\vs\bitzip.cpp\bitzip.cpp\htcompress.cpp(8): warning C4267: “=”: 从“size_t”转换到“uch”，可能丢失数据
+e:\vs\bitzip.cpp\bitzip.cpp\htcompress.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs\bitzip.cpp\bitzip.cpp\htcompress.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  BitZip.cpp.vcxproj -> E:\vs\BitZip.cpp\Debug\BitZip.exe

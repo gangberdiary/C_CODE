@@ -1,0 +1,23 @@
+ABBBCCCCCDDDDDDDDD
+EE
+你好
+//#include "Huffuman.hpp"
+#include "HTCompress.h"
+
+
+
+void Test()
+{
+	/*vector<int> v = { 3, 9, 1, 5 };
+	HuffumanTree<int> ht;
+	ht.CreatHuffumanTree(v);*/
+	HTCompress htc;
+	htc.CompressFile("1.txt");
+	htc.UNCompressFile("compress.txt");
+}
+
+int main()
+{
+	Test();
+	return 0;
+}
